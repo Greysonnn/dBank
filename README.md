@@ -1,2 +1,2 @@
 # dBank
-Decentralized bank dApp 
+Decentralized bank application  
